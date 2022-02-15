@@ -1,3 +1,7 @@
 my_answers.txt
 
+<<<<<<< HEAD
 text text text
+=======
+yes, it worked
+>>>>>>> e9d6b5df2a033e924c89d7e91ade7cb73d661a2d

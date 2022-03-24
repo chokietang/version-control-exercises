@@ -1,3 +1,3 @@
 # version-control-exercises
 
-This repository is created to make exercises with GitHub
+This repository is created to get familiar with GitHub.
